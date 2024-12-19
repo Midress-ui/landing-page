@@ -1,0 +1,79 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #007BFF;
+  color: white;
+  padding: 2rem 0;
+}
+
+.header .logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-size: 1.1rem;
+  transition: color 0.3s;
+}
+
+.navbar a:hover {
+  color: #FFD700;
+}
+
+.hero {
+  background-color: #f8f9fa;
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.hero img {
+  max-width: 700px;
+}
+
+.btn-primary {
+  background-color: #007BFF;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-contact {
+  margin-top: 2rem;
+  float: right;
+}
+
+.about, .services, .contact {
+  padding: 4rem 0;
+}
+
+.service-item {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.service-item img {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 1rem;
+}
+
+.contact-form label {
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 
+}
